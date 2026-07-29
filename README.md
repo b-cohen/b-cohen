@@ -25,11 +25,11 @@ I am passionate about building software, mentoring emerging developers, and crea
 
 ## 👩🏾‍💻 About Me
 
-- 🎓 Bachelor's degree in Computer Science
-- 💼 Technical Director at a nonprofit organization
-- 👩🏾‍🏫 Train recent high school graduates in software development
-- 🐍 Teach Python, Java, JavaScript, React, HTML, CSS, Django, Spring, and SQL
-- 🌱 Passionate about software engineering, education, and increasing access to technology careers
+- Bachelor's degree in Computer Science
+- Technical Director at a nonprofit organization
+- Train recent high school graduates in software development
+- Teach Python, Java, JavaScript, React, HTML, CSS, Django, Spring, and SQL
+- Passionate about software engineering, education, and increasing access to technology careers
 
 ---
 
